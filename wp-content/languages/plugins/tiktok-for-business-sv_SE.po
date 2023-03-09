@@ -1,0 +1,49 @@
+# Translation of Plugins - TikTok - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - TikTok - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-03 15:43:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - TikTok - Stable (latest release)\n"
+
+#: admin/tt4b_menu.php:232 tiktok-for-woocommerce.php:108
+msgid "TikTok for WooCommerce requires WooCommerce version 7.0 or higher to be enabled."
+msgstr "TikTok for WooCommerce kräver att WooCommerce version 7.0 eller högre ska vara aktiverat."
+
+#: admin/tts/order_detail.php:132
+msgid "TikTok Seller Center"
+msgstr "TikTok säljarcenter"
+
+#: admin/tts/order_list.php:117
+msgid "Manage on seller center"
+msgstr "Hantera på säljarcenter"
+
+#: admin/tts/order_list.php:40
+msgid "Update"
+msgstr "Uppdatera"
+
+#: admin/tts/order_list.php:34
+msgid "Channel"
+msgstr "Kanal"
+
+#: admin/tts/order_detail.php:131
+msgid "Orders generated from TikTok Shop can only be managed through"
+msgstr "Beställningar genererade från TikTok Shop kan endast hanteras genom"
+
+#: admin/tts/order_detail.php:113
+msgid "TikTok orders cannot be modified via the normal interface. Modify on TikTok."
+msgstr "TikTok-beställningar kan inte ändras via det normala gränssnittet. Ändra på TikTok."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/tiktok-for-business"
+msgstr "https://wordpress.org/plugins/tiktok-for-business"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "TikTok"
+msgstr "TikTok"

@@ -1,0 +1,146 @@
+# Translation of Themes - Shopient in Dutch
+# This file is distributed under the same license as the Themes - Shopient package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-10 07:52:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Shopient\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Shopient is a WooCommerce multipurpose WordPress theme designed for shopping online stores. Shopient is suitable for eCommerce websites such as fashion, suit, sneaker, shoes, glasses, accessories, supermarket … or anything you want. The theme is built with lots of cool features and fully eCommerce functionalities in Pro version. Visit Shopient pro demo. https://preview.sellerthemes.com/pro/shopient/"
+msgstr "Shopient is een WooCommerce multifunctioneel WordPress thema ontworpen voor winkelen op online winkels. Shopient is geschikt voor eCommerce sites zoals mode, pak, sneaker, schoenen, brillen, accessoires, supermarkt ... of wat je maar wilt. Het thema is gebouwd met veel coole functies en volledige eCommerce functionaliteiten in de Pro versie. Bekijk Shopient pro demo. https://preview.sellerthemes.com/pro/shopient"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Shopient"
+msgstr "Shopient"
+
+#: inc/customizer/customizer-options/shopient-pro.php:29
+msgid "Give us Rating"
+msgstr "Geef ons een waardering"
+
+#: inc/customizer/customizer-options/shopient-pro.php:27
+msgid "Ask for Support"
+msgstr "Vraag om ondersteuning"
+
+#: inc/customizer/customizer-options/shopient-pro.php:25
+msgid "Purchase Now"
+msgstr "Nu kopen"
+
+#: inc/customizer/customizer-options/shopient-pro.php:23
+msgid "Pro Demo"
+msgstr "Pro demo"
+
+#: inc/customizer/customizer-options/shopient-pro.php:7
+msgid "Get More Features in Shopient Pro"
+msgstr "Krijg meer functies in Shopient Pro"
+
+#: inc/customizer/customizer-options/shopient-header.php:109
+msgid "Sign Out Title"
+msgstr "Afmelden titel"
+
+#: inc/customizer/customizer-options/shopient-header.php:90
+msgid "Sign In Title"
+msgstr "Aanmelden titel"
+
+#: template-parts/sections/section-header.php:65
+msgid "Header Above Collapse"
+msgstr "Header boven samenvouwen"
+
+#: template-parts/sections/section-header.php:56
+msgid "Header Close Menu"
+msgstr "Sluit header menu"
+
+#: template-parts/sections/section-header.php:47
+msgid "Menu Collaped"
+msgstr "Menu samengevouwd"
+
+#: inc/customizer/customizer-options/shopient-header.php:291
+#: inc/customizer/customizer-options/shopient-header.php:310
+msgid "Sticky Header"
+msgstr "Sticky header"
+
+#: inc/customizer/customizer-options/shopient-header.php:257
+msgid "Product Search"
+msgstr "Product zoeken"
+
+#: inc/customizer/customizer-options/shopient-header.php:197
+msgid "Browse Category"
+msgstr "Blader door categorie"
+
+#: inc/customizer/customizer-options/shopient-header.php:178
+msgid "Browse Section"
+msgstr "Blader door sectie"
+
+#: inc/customizer/customizer-options/shopient-header.php:166
+msgid "Cart Title"
+msgstr "Winkelwagen titel"
+
+#: inc/customizer/customizer-options/shopient-header.php:130
+msgid "Cart"
+msgstr "Winkelwagen"
+
+#: inc/customizer/customizer-options/shopient-header.php:236
+msgid "Title"
+msgstr "Titel"
+
+#: inc/customizer/customizer-options/shopient-header.php:71
+#: inc/customizer/customizer-options/shopient-header.php:147
+#: inc/customizer/customizer-options/shopient-header.php:216
+#: inc/customizer/customizer-options/shopient-header.php:276
+#: inc/customizer/customizer-options/shopient-header.php:327
+msgid "Hide/Show"
+msgstr "Verberg/toon"
+
+#: inc/customizer/customizer-options/shopient-header.php:54
+msgid "My Account"
+msgstr "Mijn account"
+
+#: inc/customizer/customizer-options/shopient-header.php:34
+msgid "Header Navigation"
+msgstr "Header navigatie"
+
+#: inc/customizer/customizer-options/shopient-header.php:22
+msgid "Site Identity"
+msgstr "Site-identiteit"
+
+#: inc/customizer/customizer-options/shopient-header.php:12
+msgid "Header"
+msgstr "Header"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Ga naar de inhoud"
+
+#: functions.php:81
+msgid "CLOSE"
+msgstr "SLUITEN"
+
+#: functions.php:80
+msgid "Shopping Cart"
+msgstr "Winkelwagen"
+
+#: functions.php:66
+msgid "0"
+msgstr "0"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://sellerthemes.com/shopient-free/"
+msgstr "https://sellerthemes.com/shopient-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://sellerthemes.com/"
+msgstr "https://sellerthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Seller Themes"
+msgstr "Verkoop thema's"
